@@ -1,0 +1,108 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    border-color: red;
+    border-style: dashed;
+    border-width: 1px;
+
+}
+
+li{
+    list-style-type: none;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+
+.main{
+    background: white;
+    height: 1900px;
+    width: 600px;
+    margin: auto;
+    display: flex;
+    
+    
+}
+
+.photo{
+    background: green;
+    height: 300px;
+    width: 600px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+.upper{
+
+    background: orange;
+    background-color: orange;
+    padding: 10px;
+    width: 600px;
+    margin: auto;
+    justify-content: flex-end;
+    
+
+   
+}
+
+.p1{
+  
+    height: 60px;
+    width: 80px;
+    display: inline-flex;
+    border-radius: 20px
+    }
+    
+
+
+.p2{
+    
+    height: 20%;
+    
+    margin-left: auto;
+    display: inline-block;
+    padding: 18px;
+    justify-content: flex-end;
+
+}
+
+.p3{
+    
+    height: 20px;
+    width: 28%;
+    margin-left: auto;
+    padding: 0px 50px 50px 0px;
+    display: inline-flex;
+    justify-content: flex-end;
+    padding: 18px;
+    
+
+}
+.icons{
+    background: bisque;
+    background-color: bisque;
+    height: 300px;
+    width: 300px;
+}
+.post{
+    background: yellow;
+    height: 150px;
+    width: 150px;
+}
+
+img {
+    height: 90%;
+    width: 90%;
+    display: block;
+    bottom: 100px;
+    margin: auto;
+    padding: 20px;
+}
+
+ul{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+}
+
